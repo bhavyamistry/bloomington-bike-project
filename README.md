@@ -1,6 +1,6 @@
 # Bicycle Sales Analysis
 
-![Bicycle Image](bicycle_image.jpg)
+![Bicycle Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BwMWp2M3dqaDdvdzFmOXRvcWhiYzg0N3VkdGpzcHg4N3YxcHJleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieWQFNoAYTDPwmQ/giphy.gif)
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ The bicycle industry faces challenges in understanding trends in bicycle sales b
 
 The dataset used in this project is sourced from Kaggle and includes information on bicycle purchases, including geographical location, occupation, gender, age, commute distance, and vehicle ownership.
 
-[Dataset Link](https://www.kaggle.com/bicycles/bicycle-sales)
+[Dataset Link](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)
 
 ## Libraries Used
 
