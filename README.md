@@ -2,7 +2,7 @@
 
 <center>
 
-![Bicycle Image](./images/cycling.gif)
+![Bicycle Image](./images/cycle.gif)
 
 </center>
 
