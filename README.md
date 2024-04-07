@@ -1,10 +1,6 @@
 # Bicycle Sales Analysis
 
-<center>
-
-![Bicycle Image](./images/cycle.gif)
-
-</center>
+<img src="./images/coding.gif" alt="vector" align="center">
 
 ## Project Overview
 
