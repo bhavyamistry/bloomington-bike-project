@@ -18,12 +18,13 @@ The dataset used in this project is sourced from Kaggle and includes information
 
 ## Libraries Used
 
-The following libraries were used in this project:
+The following libraries were used in this project: <br>
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue?style=flat&logo=matplotlib)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blue?style=flat&logo=seaborn)](https://seaborn.pydata.org/)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+
 
 ## Project Demonstration
 
