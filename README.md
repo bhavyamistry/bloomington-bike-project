@@ -1,6 +1,10 @@
 # Bicycle Sales Analysis
 
+<center>
+
 ![Bicycle Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BwMWp2M3dqaDdvdzFmOXRvcWhiYzg0N3VkdGpzcHg4N3YxcHJleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieWQFNoAYTDPwmQ/giphy.gif)
+
+</center>
 
 ## Project Overview
 
